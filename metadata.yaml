@@ -1,0 +1,33 @@
+_repo: His-Grace-of-Osmonde--13-Being-the-Portions-of-That-Nobleman-s-Life-Omitted-in-the-Relation-o__15651
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Townesend, Frances Eliza Hodgson Burnett
+    - Hodgson, Frances Eliza
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2005-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Nobility -- Fiction'
+title: "His Grace of Osmonde\r\nBeing the Portions of That Nobleman's Life Omitted\
+  \ in the Relation of His Lady's Story Presented to the World of Fashion under the\
+  \ Title of A Lady of Quality"
+url: http://www.gutenberg.org/ebooks/15651
